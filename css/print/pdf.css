@@ -188,3 +188,11 @@ ul, ol, div, p {
 .reveal small a {
 	font-size: 16pt !important;
 }
+
+/*
+   fix for the ugly pdf print background
+*/
+body {
+  background: #444444;
+  background-color: #444444; 
+}
